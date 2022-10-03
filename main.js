@@ -10,7 +10,7 @@ return "hola" + name
 //saludar()
 //console.log(getsalute("solange"))
 //console.log(getsalute("babby"))
-//console.log("hola")
+console.log("hola")
 
 const getsalute2 = (name,name2,lastname,lastname2)=>
 {
@@ -29,4 +29,7 @@ const espar = (number) => {
     }
 
 }
-console.log(espar(4))
+console.log(espar(4))  
+
+
+//
